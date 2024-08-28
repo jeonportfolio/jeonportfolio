@@ -1,8 +1,7 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 
 
-<h1 align="center">WELCOME 👋 I'M JEON SEON UK</h1>
+<h1 align="center" style= "color:blue">WELCOME 👋 I'M JEON SEON UK</h1>
 <h3 align="center">"I want to be a frontend developer who constantly challenges myself without limits."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonportfolio&label=Profile%20views&color=0e75b6&style=flat" alt="jeonportfolio" /> </p>
