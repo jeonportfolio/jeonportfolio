@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">WELCOME 👋 I'M JEON SEON UK</h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><h1 align="center">WELCOME 👋 I'M JEON SEON UK</h1>
 <h3 align="center">"I want to be a frontend developer who constantly challenges myself without limits."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonportfolio&label=Profile%20views&color=0e75b6&style=flat" alt="jeonportfolio" /> </p>
