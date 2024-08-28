@@ -1,10 +1,9 @@
 
-
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeon+Seon+Uk;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME! +👋;This+is+Jeon+Seon+Uk;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
