@@ -1,3 +1,4 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="WELCOME 👋 I'M JEON SEON UK" src="./assets/gh-readme-header.png" /></a></p>
 
 
 <h1 align="center">WELCOME 👋 I'M JEON SEON UK</h1>
