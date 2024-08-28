@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
-</p>
+
 
 <h1 align="center">WELCOME 👋 I'M JEON SEON UK</h1>
 <h3 align="center">"I want to be a frontend developer who constantly challenges myself without limits."</h3>
