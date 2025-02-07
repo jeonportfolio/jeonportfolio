@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h3 align="center">"I want to be a developer who constantly challenges myself without limits."</h3>
+<h3 align="center">"I want to continuously challenge myself without setting limits on the results."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeonportfolio&label=Profile%20views&color=0e75b6&style=plastic" alt="jeonportfolio" /> </p>
 
 - 🔭 AWS BLOG posting [CLICK HERE->](https://blog.naver.com/turtleweb/223067030443)
